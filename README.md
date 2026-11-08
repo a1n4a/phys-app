@@ -1,2 +1,2 @@
-# phys-app
-AI-powered physiotherapy app that transforms medical reports into personalized rehabilitation plans, provides real-time movement feedback, and connects patients with therapists beyond the clinic.
+# phys
+Phys - Mobile physiotherapy app with camera-based exercise tracking, personalized rehabilitation plans, therapist–patient connectivity, progress monitoring, and automated therapy reports.
